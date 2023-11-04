@@ -1,0 +1,41 @@
+\contentsline {section}{\numberline {1}Sorting algorithms}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Comparison sorts}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Non-comparison sorts}{2}{subsection.1.2}%
+\contentsline {section}{\numberline {2}Binary search trees}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Traversal}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Balanced BST's and AVL Trees}{3}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Calculating balance}{3}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Rotations}{3}{subsubsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.3}AVL Trees}{4}{subsubsection.2.2.3}%
+\contentsline {subsubsection}{\numberline {2.2.4}Global Rebalancing}{4}{subsubsection.2.2.4}%
+\contentsline {subsubsection}{\numberline {2.2.5}Root Insertion}{4}{subsubsection.2.2.5}%
+\contentsline {subsubsection}{\numberline {2.2.6}Randomised Insertion}{4}{subsubsection.2.2.6}%
+\contentsline {section}{\numberline {3}Graphs}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Terminology}{5}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Sparseness}{5}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}Vertices, edges, and the connections between them}{5}{subsubsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.2}Representations}{5}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Array of Edges}{5}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Adjacency Matrix}{6}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}Adjacency List}{6}{subsubsection.3.2.3}%
+\contentsline {section}{\numberline {4}Traversal}{6}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Breadth First Search}{6}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Depth First Search}{6}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Graph problems}{6}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Cycle checking}{6}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Connected components}{7}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Hamiltonian Path/Circuit}{7}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Euler Path/Circuit}{7}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}Reachability}{7}{subsection.5.5}%
+\contentsline {subsubsection}{\numberline {5.5.1}Warshall's Algorithm}{7}{subsubsection.5.5.1}%
+\contentsline {subsection}{\numberline {5.6}Shortest path}{8}{subsection.5.6}%
+\contentsline {subsubsection}{\numberline {5.6.1}Djikstra's Algorithm}{8}{subsubsection.5.6.1}%
+\contentsline {subsection}{\numberline {5.7}Minimum spanning trees}{8}{subsection.5.7}%
+\contentsline {subsubsection}{\numberline {5.7.1}Prim's Algorithm}{8}{subsubsection.5.7.1}%
+\contentsline {subsubsection}{\numberline {5.7.2}Kruskal's Algorithm}{8}{subsubsection.5.7.2}%
+\contentsline {section}{\numberline {6}Hash Tables}{8}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Hashing}{8}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Collision resolution}{8}{subsection.6.2}%
+\contentsline {subsubsection}{\numberline {6.2.1}Seperate chaining}{9}{subsubsection.6.2.1}%
+\contentsline {subsubsection}{\numberline {6.2.2}Linear probing}{9}{subsubsection.6.2.2}%
+\contentsline {subsubsection}{\numberline {6.2.3}Double hashing}{9}{subsubsection.6.2.3}%
